@@ -21,7 +21,7 @@ if(!isset($_POST['enviar'])){
         echo 'Sube una imagen con un formato correcto';
     }
 }
-
+  
 
 ?>
 
